@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "id": "linspectacles-xdg-portals",
+  "name": "XDG Portals",
+  "version": "0.0.3",
+  "author": "brunonlinespace",
+  "editor": "brunonlinespace",
+  "publisher": "brunonlinespace",
+  "organization_id": "linspectacles",
+  "organization_url": "https://github.com/linspectacles/",
+  "repository": "https://github.com/linspectacles/xdg-portals",
+  "order": 100,
+  "layer": "Desktop Environment",
+  "entrypoint": "xdg_portals/applet.py",
+  "factory": "create_applet",
+  "standalone": "standalone.py",
+  "description": "Read-only inspector for the local XDG Desktop Portal frontend/backend architecture, installed backend descriptors, declared interfaces, backend-selection configuration, and already-running portal services without activation.",
+  "platforms": [
+    "linux"
+  ],
+  "read_only": true
+}
