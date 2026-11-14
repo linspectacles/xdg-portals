@@ -18,6 +18,7 @@ Repository: <https://github.com/linspectacles/xdg-portals>
     >
   </a>
 </p>
+
 ## What XDG Portals is
 
 XDG Portals answers a focused question: **which portal components are installed, what interfaces do their backends declare, how is backend selection configured, and which portal services are already running?**
