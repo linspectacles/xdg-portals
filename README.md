@@ -8,7 +8,6 @@ Current release: **0.0.3**
 
 Repository: <https://github.com/linspectacles/xdg-portals>
 
-
 <p align="center">
   <a href="https://github.com/brunonlinespace/brunonlinespace/blob/main/linspectacles/xdg-portals.png">
     <img
